@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Welcome to the Raja's homepage
 description: Feel free to bookmark this to keep an eye on my project updates
+
+permalink: /blog/:year/:month/:day/:title
